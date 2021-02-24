@@ -1,11 +1,13 @@
 # coolthingsdotcom
-It's Cool Things™! (.com)
-Only the coolest things.
-This is another cool thing.
-You can find cool things, here.
+It's Cooler Things™! (.com)
+Only the coolest-er things.
+This is another cooler thing.
+You can find cooler things, here.
 
   And here.
   
       And here, too!
       
-This has been Cool Things™. Thank you for coming to my TED Talk. - Neo.
+This has been Cooler Things™. It's like Cool Things™, but cooler!
+
+sick music and bad web designs at neoteaika.com
