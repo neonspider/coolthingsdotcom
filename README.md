@@ -1,13 +1,6 @@
-# coolthingsdotcom
-It's Cooler Things™! (.com)
-Only the coolest-er things.
-This is another cooler thing.
-You can find cooler things, here.
+# what
+You can't get cooler than cool!
+That's why in our latest project, we've decided to scrap failed attempts at overimproving the best there already is.
+I give you... This repo!
 
-  And here.
-  
-      And here, too!
-      
-This has been Cooler Things™. It's like Cool Things™, but cooler!
-
-sick music and bad web designs at neoteaika.com
+(idk)
