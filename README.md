@@ -1,11 +1,6 @@
-# coolthingsdotcom
-It's Cool Things™! (.com)
-Only the coolest things.
-This is another cool thing.
-You can find cool things, here.
+# what
+You can't get cooler than cool!
+That's why in our latest project, we've decided to scrap failed attempts at overimproving the best there already is.
+I give you... This repo!
 
-  And here.
-  
-      And here, too!
-      
-This has been Cool Things™. Thank you for coming to my TED Talk. - Neo.
+(idk)
